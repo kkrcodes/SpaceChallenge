@@ -21,6 +21,8 @@ The project can be run by cloning/downloading the repository and opening in an I
 javac *.java
 java Main
 ```
+<i>(If executing on terminal/command-line, enter the full file path to 'phase-1.txt' & 'phase-2.txt' in Main.java) </i>
+
 Screenshot
 ----------
 <b> Simulation Output </b>
