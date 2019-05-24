@@ -1,5 +1,5 @@
 /**
- * Rocket class implementing methods in SpaceShip interface and containing fields describing Rocket
+ * Rocket class implementing methods in SpaceShip interface and providing helper methods for Rocket attributes
  */
 class Rocket implements SpaceShip {
     private int cost;
