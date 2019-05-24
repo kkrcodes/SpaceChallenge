@@ -14,10 +14,13 @@ The goal of the project was to run simulations of two types of rockets and deter
 <li>Items to be carried in Phase-2 can be found <a href = "/specs/phase-2.txt"> here</a>. </li>
 </ul>
 
-Build
+Deployment
 ---------
-
-
+The project can be run by cloning/downloading the repository and opening in an IDE. Alternatively, one could navigate to the src folder and execute the following commands in the terminal:
+<code>
+javac *.java
+java Main
+</code>
 Screenshot
 ----------
 <b> Simulation Output </b>
