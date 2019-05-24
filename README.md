@@ -17,10 +17,10 @@ The goal of the project was to run simulations of two types of rockets and deter
 Deployment
 ---------
 The project can be run by cloning/downloading the repository and opening in an IDE. Alternatively, one could navigate to the src folder and execute the following commands in the terminal:
-<code>
+```
 javac *.java
 java Main
-</code>
+```
 Screenshot
 ----------
 <b> Simulation Output </b>
