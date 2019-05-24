@@ -6,7 +6,7 @@ This is the capstone project of Udacity's <i> Object Oriented Programming in Jav
 
 Project Summary
 ---------------
-The goal of the project was to run simulations of two types of rockets and determine the correct type to use for the mission to Mars. The mission consists of two phases, therefore there are two lists of items to be carried in the rockets. <br> The project runs simulations of loading the payload, launching and landing the rockets in both phases. It calculates the total budget required for each type of rocket (including crashes) to reach Mars successfully and displays them, allowing to choose the cheaper (and correct) type of rocket.
+The goal of the project was to run simulations of two types of rockets and determine the correct type to use for the mission to Mars. The mission consists of two phases, therefore there are two lists of items to be carried in the rockets. <br> The project runs simulations of loading the payload, launching and landing the rockets in both phases. It calculates the total budget required for each type of rocket (including crashes) to successfully reach Mars and displays them, allowing to choose the cheaper (and correct) type of rocket.
 
 <ul>
 <li>The specs for both rockets can be found <a href = "/specs/Rocket_Specs.txt"> here</a> </li>
