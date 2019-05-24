@@ -2,7 +2,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
 /**
- * Main class to run the simulation for the mission to Mars
+ * Driver class to run simulations and determine which type of rocket to use
  */
 public class Main {
     public static void main(String[] args) {
