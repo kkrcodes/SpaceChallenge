@@ -12,7 +12,7 @@ The goal of the project was to run simulations of two types of rockets and deter
 <li>The specs for both rockets can be found <a href = "/specs/Rocket_Specs.txt"> here</a> </li>
 <li>Items to be carried in Phase-1 can be found <a href = "/specs/phase-1.txt"> here</a> </li>
 <li>Items to be carried in Phase-2 can be found <a href = "/specs/phase-2.txt"> here</a> </li>
-<ul>
+</ul>
 
 Screenshot
 ----------
