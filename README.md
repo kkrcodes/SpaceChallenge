@@ -14,6 +14,10 @@ The goal of the project was to run simulations of two types of rockets and deter
 <li>Items to be carried in Phase-2 can be found <a href = "/specs/phase-2.txt"> here</a>. </li>
 </ul>
 
+Build
+---------
+
+
 Screenshot
 ----------
 <b> Simulation Output </b>
