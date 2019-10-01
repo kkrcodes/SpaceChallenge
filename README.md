@@ -23,7 +23,7 @@ java Main
 ```
 <i>(If executing on terminal/command-line, enter the full file path to <b>phase-1.txt</b> & <b>phase-2.txt</b> in <b>Main.java</b>) </i>
 
-Screenshot
+Screenshots
 ----------
 <b> Simulation Output </b>
 
