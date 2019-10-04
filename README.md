@@ -2,7 +2,7 @@
 
 <i> Java project for <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283" title = "Udacity's OOPS in Java"> Udacity's Object Oriented Programming in Java </a> course. </i> 
 
-This is the capstone project of Udacity's <i> Object Oriented Programming in Java </i> course [developed independently].
+Capstone project for Udacity's <i> Object Oriented Programming in Java </i> course [developed independently].
 
 Project Summary
 ---------------
