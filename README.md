@@ -1,8 +1,6 @@
 # Space Challenge
 
-<i> Java project for <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283" title = "Udacity's OOPS in Java"> Udacity's Object Oriented Programming in Java </a> course. </i> 
-
-Capstone project (done independently) for Udacity's <i> Object Oriented Programming in Java </i> course.
+Capstone project (done independently) for <a href = "https://in.udacity.com/course/object-oriented-programming-in-java--ud283" title = "Udacity's OOPS in Java"> Udacity's Object Oriented Programming in Java </a> course.
 
 Project Summary
 ---------------
