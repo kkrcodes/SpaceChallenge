@@ -25,4 +25,4 @@ Screenshots
 ----------
 <b> Simulation Output </b>
 
-![Simulation Output](screenshots/output.PNG?raw=true "Simulation Output")
+![Simulation Output](screenshots/output.PNG "Simulation Output")
