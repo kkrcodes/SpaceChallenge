@@ -28,3 +28,8 @@ Screenshots
 <b> Simulation Output </b>
 
 ![Simulation Output](screenshots/output.PNG "Simulation Output")
+
+## License
+
+The content of this repository is licensed under a
+[GNU General Public License v3.0](LICENSE).
